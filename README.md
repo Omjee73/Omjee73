@@ -20,7 +20,7 @@
 
 <h1 align="center">Hi there, I'm Omjee Gupta 👋</h1>
 
-<h3 align="center">🚀 Data Science Enthusiast · BSc @ IIT Madras · Research Intern · Full-Stack Developer</h3>
+<h3 align="center">🚀 Data Science Enthusiast · BS @ IIT Madras · Research Intern · Full-Stack Developer</h3>
 
 ---
 
